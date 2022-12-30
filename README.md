@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Eddie</h1>
-<h3 align="center">A passionate computer science student who is eager to learn and willing to adapt to the ever-evolving technology.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddiewonged" alt="eddiewonged" /></a> </p>
 
