@@ -18,7 +18,7 @@
 
 ### [Multipurpose Online Coding Assessment Platform (MOCAP)](https://github.com/mocaphk)
 
--   My final year project which is an all-in-one web platform for students to work on their coding assignment in customizable containerized environment using Docker.
+-   My final year project which is an all-in-one web platform for students to work on their coding assignment in a customizable containerized environment using Docker.
 
 | Repository                                                                | Description                                                                                          |
 | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
